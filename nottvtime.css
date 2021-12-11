@@ -1,0 +1,46 @@
+
+.topimg{
+    align-content: center;
+    margin-left: 300px;
+    margin-top: 20px;
+    height: 350px;
+    width: auto;
+}
+.heading1{
+text-align: center;
+color: crimson;
+font-family: 'Oswald', sans-serif;
+}
+.heading2{
+    text-align: center;
+    color: maroon;
+    margin-top: 25px;
+}
+.headingundr{
+    text-align: center;
+    font-family: monospace;
+    color: darkviolet;
+    margin-top: 30px;
+}
+.card {display:inline-block;
+    
+}
+.divcontact{
+    margin-top: 20px;
+    background-color: rgba(0, 255, 0, 0.959);
+}
+.dropdown1{
+    background-color: orangered;
+}
+.about{
+    text-align: center;
+}
+.contactinfo{
+    text-align: right;
+}
+.finalp{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgba(255, 17, 0, 0.979);
+    font-size: large;
+}
